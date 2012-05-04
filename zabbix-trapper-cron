@@ -1,0 +1,1 @@
+* * * * *      root    for ZBXTRAPPER in $(ls /usr/local/zabbix/plugins/*.trapper.sh);do $ZBXTRAPPER | zabbix_sender -c /etc/zabbix/zabbix_agentd.conf -i - 2>&1 >/dev/null ;done
