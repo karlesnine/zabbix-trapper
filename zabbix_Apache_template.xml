@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export version="1.0" date="16.05.12" time="10.35">
   <hosts>
-    <host name="Template_MApache_Stats">
+    <host name="AAA_Template_MApache_Stats">
       <proxy_hostid>0</proxy_hostid>
       <useip>1</useip>
       <dns></dns>
